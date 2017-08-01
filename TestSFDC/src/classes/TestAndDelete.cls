@@ -1,3 +1,4 @@
 public with sharing class TestAndDelete {
-//Highfghdrfddssdfdsfsdfds
+	public void test(){
+	}
 }
